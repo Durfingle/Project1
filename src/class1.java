@@ -13,7 +13,7 @@ public class class1 {
             if (lowest > randomNum)
             {
                 lowest = randomNum;
-                //jnom is key
+                //jnom is key2
             }
 
             if (highest < randomNum)
