@@ -5,7 +5,7 @@ public class class1 {
     {
         Random rand = new Random();
         int lowest = 1000;
-        int highest = 0;
+        int highest = 0; //lowest and highest in random num generator
         for(int i=0;i<200;i++)
         {
             int randomNum = rand.nextInt((1000-0) + 1);
