@@ -17,7 +17,7 @@ public class class1 {
 
             if (highest < randomNum)
             {
-                highest = randomNum;
+                highest = randomNum;//this sets the highest num equal to our variable
             }
         }
         System.out.println("lowest: " + lowest + " Highest: " + highest);
